@@ -24,7 +24,7 @@ export class ServersComponent implements OnInit {
     }
 
     
-    // Version 1
+    // Version 2
 
 
     onCreateServer(){
